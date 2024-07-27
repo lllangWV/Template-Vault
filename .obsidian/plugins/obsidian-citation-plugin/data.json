@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "csl-json",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "03 - Resources\\Literature",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nurl: {{URL}}\ndoi: {{DOI}}\nyear: {{year}}\ncssclasses:\n - literature\n - note\n\n---\n# Literature Note\n\n## Summary\n***\nCustomize template\n...\n***\n## Notes\n***",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "C:\\Users\\Desktop\\Logan Vaults\\Notebook\\My Library.json"
+}

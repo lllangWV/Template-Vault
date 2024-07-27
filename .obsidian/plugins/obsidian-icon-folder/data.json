@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiSettings",
+      "SiExcalidraw",
+      "FasBoxArchive",
+      "TiCalendar",
+      "CoNote"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "03 - Resources": "FasBook",
+  "02 - Areas": "LiBox",
+  "01 - Projects": "FasPenNib",
+  "04 - Permanent": "TiNotes",
+  "05 - Fleeting": "CoNote",
+  "06 - Daily": "TiCalendar",
+  "07 - Archives": "FasBoxArchive",
+  "00 - Excalidraw": "SiExcalidraw",
+  "99 - Meta": "LiSettings"
+}

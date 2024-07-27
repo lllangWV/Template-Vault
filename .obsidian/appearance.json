@@ -1,0 +1,16 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "LogaN-Colored Headings",
+    "Logan-Colored Headings",
+    "Colored Sidebar Items",
+    "Daily Note Themes",
+    "Notebook Backgrounds",
+    "General Tweaks",
+    "Literature Note Themes"
+  ],
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
+  "cssTheme": ""
+}

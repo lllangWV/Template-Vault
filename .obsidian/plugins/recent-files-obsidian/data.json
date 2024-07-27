@@ -1,0 +1,29 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "Permanent Note",
+      "path": "99 - Meta/Templates/Permanent Note.md"
+    },
+    {
+      "basename": "Question Template",
+      "path": "99 - Meta/Templates/Question Template.md"
+    },
+    {
+      "basename": "Overview Template",
+      "path": "99 - Meta/Templates/Overview Template.md"
+    },
+    {
+      "basename": "Daily Note",
+      "path": "99 - Meta/Templates/Daily Note.md"
+    }
+  ],
+  "omittedPaths": []
+}

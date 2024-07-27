@@ -1,0 +1,20 @@
+{
+  "menuCommands": [
+    {
+      "id": "insert-template",
+      "name": "Templates: Insert template",
+      "icon": "lucide-copy"
+    },
+    {
+      "name": "Citations: Insert literature note link",
+      "id": "obsidian-citation-plugin:insert-citation",
+      "icon": "circle"
+    },
+    {
+      "name": "Citations: Open literature note",
+      "id": "obsidian-citation-plugin:open-literature-note",
+      "icon": "circle"
+    }
+  ],
+  "hideTitles": []
+}
