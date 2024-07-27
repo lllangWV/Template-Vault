@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c4f35e7d9c47c57",
+            "id": "ded2449781bb4827",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ded2449781bb4827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -185,12 +172,24 @@
   },
   "active": "ded2449781bb4827",
   "lastOpenFiles": [
+    "07 - Archives/README.md",
+    "06 - Daily/2024-07-27.md",
     "Homepage.md",
+    "06 - Daily/Untitled.md",
+    "05 - Fleeting/Questions/README.md",
+    "05 - Fleeting/Inbox/README.md",
+    "05 - Fleeting/Ideas/README.md",
+    "04 - Permanent/Questions/README.md",
+    "04 - Permanent/Overview/README.md",
+    "03 - Resources/Literature/README.md",
+    "03 - Resources/Images/README.md",
+    "02 - Areas/README.md",
+    "01 - Projects/Example Project/README.md",
+    "README.md",
     "99 - Meta/Templates/Permanent Note.md",
     "99 - Meta/Templates/Question Template.md",
     "99 - Meta/Templates/Overview Template.md",
     "99 - Meta/Templates/Daily Note.md",
-    "README.md",
     "04 - Permanent/Questions",
     "04 - Permanent/Overview",
     "07 - Archives/Physics_Notes/Reference books/Electricity and Magnetism/test/Lib/site-packages/matplotlib/figure (2021_01_21 03_23_16 UTC).py",
@@ -213,23 +212,12 @@
     "07 - Archives/Physics_Notes/Reference books/Electricity and Magnetism/test/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect (2021_01_21 03_23_16 UTC).png",
     "07 - Archives/Computer_Notes/asus battery model c41n1727.md",
     "07 - Archives/Computer_Notes/Computer_Specs (2021_01_21 03_23_16 UTC).md",
-    "06 - Daily/2024-07-27.md",
     "06 - Daily/2024-07-26.md",
     "06 - Daily/2024-07-25.md",
     "06 - Daily/2024-07-22.md",
     "06 - Daily/2024-07-24.md",
     "06 - Daily/2024-07-23.md",
     "06 - Daily/2024-07-21.md",
-    "06 - Daily/2024-07-20.md",
-    "06 - Daily/2024-07-01.md",
-    "06 - Daily/2024-06-03.md",
-    "06 - Daily/2024-06-11.md",
-    "06 - Daily/2024-06-28.md",
-    "06 - Daily/2024-06-16.md",
-    "05 - Fleeting/Questions/When do you need to switch from away from SQLite.md",
-    "05 - Fleeting/Questions/What is the difference in speed using pytorch with a text format vs a binary format.md",
-    "05 - Fleeting/Questions/Literature Questions.md",
-    "05 - Fleeting/Inbox/Untitled.md",
     "01 - Projects/MatGraphDB/Notes/Pytorch Geometric/HeteroGraphs Pytorch Geometric.canvas",
     "01 - Projects/MatGraphDB/Notes/Materials_HeteroGraphs/Combing Nodes in HeteroGraph.canvas",
     "01 - Projects/MatGraphDB/Notes/Materials_HeteroGraphs/bulk_modulus.canvas"
